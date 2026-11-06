@@ -154,7 +154,7 @@
      "source": "The same tag loads twice on your pages: AW-779931687 (2 times in the page code). Google Ads may count each sale twice.",
      "proof": [
       {
-       "label": "The page we read",
+       "label": "Your home page",
        "link": "https://tushbaby.com/"
       },
       {
@@ -220,7 +220,7 @@
        "link": "https://www.google.com/search?q=Tushbaby%202-in-1%20Convertible%20Carrier&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       },
       {
-       "label": "The search on Google Shopping",
+       "label": "The search on Google Shopping (2)",
        "link": "https://www.google.com/search?q=Tushbaby%20Liftoff%20Toddler%20Sling&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       }
      ]
@@ -323,7 +323,7 @@
        "link": "https://www.google.com/search?q=The%20Ollie%20World%20The%20Alphie%C2%AE%20Sleep%20Pouch%E2%84%A2&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       },
       {
-       "label": "The search on Google Shopping",
+       "label": "The search on Google Shopping (2)",
        "link": "https://www.google.com/search?q=The%20Ollie%20World%20The%20New%20Parent%20Bundle&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       }
      ]
@@ -352,11 +352,11 @@
      "source": "The same tag loads twice on your pages: G-RDBL5WHTCM (in the page code and in Tag Manager). Google Analytics may count each visit twice.",
      "proof": [
       {
-       "label": "The page we read",
+       "label": "Your home page",
        "link": "https://theollieworld.com/"
       },
       {
-       "label": "The page we read",
+       "label": "Your page /pages/connect",
        "link": "https://theollieworld.com/pages/connect"
       }
      ]
@@ -849,7 +849,7 @@
        "link": "https://www.google.com/search?q=California%20Baby%20Therapeutic%20Relief%E2%84%A2%20Eczema%20Cream&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       },
       {
-       "label": "The search on Google Shopping",
+       "label": "The search on Google Shopping (2)",
        "link": "https://www.google.com/search?q=California%20Baby%20Natural%20Bug%20Blend%E2%84%A2%20Bug%20Repellent%20Spray&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       }
      ]
@@ -931,7 +931,7 @@
      "source": "The same tag loads twice on your pages: G-TELM2YTCEV (in the page code and in Tag Manager). Google Analytics may count each visit twice.",
      "proof": [
       {
-       "label": "The page we read",
+       "label": "Your home page",
        "link": "https://itsbodily.com/"
       },
       {
@@ -1017,11 +1017,11 @@
      "source": "The same tag loads twice on your pages: AW-983896427 (2 times in the page code); G-WH4LXR9DBT (in the page code and in Tag Manager). Google Ads may count each sale twice. Google Analytics may count each visit twice.",
      "proof": [
       {
-       "label": "The page we read",
+       "label": "Your home page",
        "link": "https://www.inseasonjewelry.com/"
       },
       {
-       "label": "The page we read",
+       "label": "Your page /pages/contact-us",
        "link": "https://www.inseasonjewelry.com/pages/contact-us"
       }
      ]
@@ -1163,12 +1163,12 @@
      "source": "We cannot find any ad of yours: none in our 20 searches, none in Google's ad library in the past 30 days, and none live in Meta's ad library.",
      "proof": [
       {
-       "label": "The proof",
-       "link": "https://www.google.com/search?q=baby%20winter%20hat&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
+       "label": "Google's ad library",
+       "link": "https://adstransparency.google.com/?region=US&domain=huggalugs.com&preset-date=Last+30+days"
       },
       {
-       "label": "The proof",
-       "link": "https://www.google.com/search?q=newborn%20knit%20hats&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
+       "label": "A Google search we ran",
+       "link": "https://www.google.com/search?q=baby%20winter%20hat&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       }
      ]
     }
@@ -1251,7 +1251,7 @@
        "link": "https://www.google.com/search?q=YOTTOY%20LYLE%2C%20LYLE%2C%20CROCODILE%2011%26quot%3B%20SOFT%20PLUSH%20TOY&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       },
       {
-       "label": "The search on Google Shopping",
+       "label": "The search on Google Shopping (2)",
        "link": "https://www.google.com/search?q=YOTTOY%20ARNIE%20THE%20DOUGHNUT%207.5%26quot%3B%20SOFT%20PLUSH%20TOY&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       }
      ]
@@ -1280,12 +1280,12 @@
      "source": "We cannot find any ad of yours: none in our 20 searches, none in Google's ad library in the past 30 days, and none live in Meta's ad library.",
      "proof": [
       {
-       "label": "The proof",
-       "link": "https://www.google.com/search?q=plushies&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
+       "label": "Google's ad library",
+       "link": "https://adstransparency.google.com/?region=US&domain=yottoy.com&preset-date=Last+30+days"
       },
       {
-       "label": "The proof",
-       "link": "https://www.google.com/search?q=stuffed%20animals&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
+       "label": "A Google search we ran",
+       "link": "https://www.google.com/search?q=plushies&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       }
      ]
     }
@@ -1446,11 +1446,11 @@
      "source": "The same tag loads twice on your pages: AW-1069528255 (in the page code and in Tag Manager); G-B4M23Z3S70 (in the page code and in Tag Manager). Google Ads may count each sale twice. Google Analytics may count each visit twice.",
      "proof": [
       {
-       "label": "The page we read",
+       "label": "Your home page",
        "link": "https://gorecon.com/"
       },
       {
-       "label": "The page we read",
+       "label": "Your page /pages/customer-service",
        "link": "https://gorecon.com/pages/customer-service"
       }
      ]
@@ -1483,7 +1483,7 @@
        "link": "https://www.google.com/search?q=RECON%20Ford%20Super%20Duty%2099-16%205%20Piece%20Cab%20Lights%20Amber%20Xenon%20Bulbs%20with%20Smoked%20Lens%20-%20%28Attn%3A%20This%20cab%20light%20kit%20replaces%20OEM%20factory%20installed%20Ford%2099-16%20cab%20roof%20light%20lenses%29&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       },
       {
-       "label": "The search on Google Shopping",
+       "label": "The search on Google Shopping (2)",
        "link": "https://www.google.com/search?q=RECON%20Ford%2017-26%20Super%20Duty%20White%20DRL%20LED%20Side%20Mirror%20Lenses%20-%20Multiple%20Lens&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       }
      ]
@@ -1563,11 +1563,11 @@
      "source": "The same tag loads twice on your pages: AW-1053608386 (in the page code and in Tag Manager); G-WQ7KCR4F03 (in the page code and in Tag Manager). Google Ads may count each sale twice. Google Analytics may count each visit twice.",
      "proof": [
       {
-       "label": "The page we read",
+       "label": "Your home page",
        "link": "https://www.urotuning.com/"
       },
       {
-       "label": "The page we read",
+       "label": "Your page /pages/contact-us",
        "link": "https://www.urotuning.com/pages/contact-us"
       }
      ]
@@ -1677,7 +1677,7 @@
      "source": "You pay for Google Ads, but we cannot find a Google Ads conversion tag on your site. Google bids without knowing which clicks became sales.",
      "proof": [
       {
-       "label": "The page we read",
+       "label": "Your home page",
        "link": "https://www.7amenfant.com/"
       }
      ]
@@ -1788,7 +1788,7 @@
        "link": "https://www.google.com/search?q=Elk%20and%20Friends%20Stainless%20Steel%20Bento%20Lunch%20Box%20with%20Silicone%20Lid%20%28Blush%29&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       },
       {
-       "label": "The search on Google Shopping",
+       "label": "The search on Google Shopping (2)",
        "link": "https://www.google.com/search?q=Elk%20and%20Friends%20Babies%2FToddler%20Stainless%20Steel%20Spoons%20%20%20Forks%20with%20Silicone%20Handle&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       }
      ]
@@ -1817,12 +1817,12 @@
      "source": "We cannot find any ad of yours: none in our 20 searches, none in Google's ad library in the past 30 days, and none live in Meta's ad library.",
      "proof": [
       {
-       "label": "The proof",
-       "link": "https://www.google.com/search?q=8%20oz%20mason%20jar&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
+       "label": "Google's ad library",
+       "link": "https://adstransparency.google.com/?region=US&domain=elkandfriends.com&preset-date=Last+30+days"
       },
       {
-       "label": "The proof",
-       "link": "https://www.google.com/search?q=12oz%20mason%20jars&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
+       "label": "A Google search we ran",
+       "link": "https://www.google.com/search?q=8%20oz%20mason%20jar&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       }
      ]
     }
@@ -1984,7 +1984,7 @@
        "link": "https://www.google.com/search?q=Sportsman%20Camo%20Covers%20Buick%20Rendezvous%20Bucket%20Seat%20Covers&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       },
       {
-       "label": "The search on Google Shopping",
+       "label": "The search on Google Shopping (2)",
        "link": "https://www.google.com/search?q=Sportsman%20Camo%20Covers%20Chevy%2FGMC%201500%2F2500%2F3500%2040%2F60%20Seat%20Covers&hl=en&gl=US&udm=28&gws_rd=cr&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       }
      ]
@@ -2013,12 +2013,12 @@
      "source": "We cannot find any ad of yours: none in our 20 searches, none in Google's ad library in the past 30 days, and none live in Meta's ad library.",
      "proof": [
       {
-       "label": "The proof",
-       "link": "https://www.google.com/search?q=tonneau%20cover&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
+       "label": "Google's ad library",
+       "link": "https://adstransparency.google.com/?region=US&domain=camotruckseats.com&preset-date=Last+30+days"
       },
       {
-       "label": "The proof",
-       "link": "https://www.google.com/search?q=truck%20bed%20covers&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
+       "label": "A Google search we ran",
+       "link": "https://www.google.com/search?q=tonneau%20cover&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc"
       }
      ]
     },
